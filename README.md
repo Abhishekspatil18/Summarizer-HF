@@ -7,7 +7,7 @@ Summarizer-HF is an AI-powered web application that generates concise summaries 
 
 ## Application Screenshot
 
-![Text Summarizer App](app-screenshot.png)
+![Text Summarizer App](app-screenshot.png.png)
 
 ## Features
 - Text input through a simple web interface.
